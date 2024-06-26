@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\lguy\Downloads\Project3\Project3\main.c(10,12): warning C4026: fonction déclarée avec une liste de paramètres formels
+C:\Users\lguy\Downloads\Project3\Project3\main.c(23,38): warning C4020: 'cleanupSDL' : paramètres réels trop nombreux
+C:\Users\lguy\Downloads\Project3\Project3\main.c(31,9): warning C4013: 'placement' non défini(e) ; extern retournant int pris par défaut
+C:\Users\lguy\Downloads\Project3\Project3\main.c(35,34): warning C4020: 'cleanupSDL' : paramètres réels trop nombreux
+  SDL project1.vcxproj -> C:\Users\lguy\source\repos\SDL project1\x64\Debug\SDL project1.exe
